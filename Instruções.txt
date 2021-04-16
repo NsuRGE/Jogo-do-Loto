@@ -1,3 +1,3 @@
 Como abrir o jogo:
 1: Abrir  a consola do sistema operativo
-2: Introduzir na consola o seguinte comando e introduzir o diretório do programa: java -jar "C:\Users\suRGE\Desktop\Jogo-do-Loto\Jogo do Loto\jogodoloto\dist\jogodoloto.jar"
+2: Introduzir na consola o seguinte comando e introduzir o diretório do programa: java -jar "(Diretorio)\Jogo-do-Loto\Jogo do Loto\jogodoloto\dist\jogodoloto.jar"
